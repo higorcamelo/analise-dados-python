@@ -1,2 +1,2 @@
-# Analise dados Python
- Alguns testes sobre análise de dados utilizando Python e a biblioteca Pandas
+# Analise de dados em Python
+ Mini-projetos realizados durante o curso Python Fundamentos Para Ciência de Dados 3.0
